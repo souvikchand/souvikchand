@@ -16,6 +16,7 @@ Specializations: Machine Learning, Deep Learning, Generative AI, Automation
 
 ### 📈 GitHub Activity
 Actively growing my GitHub contributions — currently focusing on Python automation, backend development, ML and Data Science
+
 ![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvikchand&show_icons=true&theme=default)
 
 <!---
