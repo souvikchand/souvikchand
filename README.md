@@ -19,6 +19,7 @@ Actively growing my GitHub contributions — currently focusing on Python automa
 
 ![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvikchand&show_icons=true&theme=default)
 
+![Trophies](https://github-profile-trophy.vercel.app/?username=souvikchand&theme=gruvbox&margin-w=10&no-frame=true&row=1)
 <!---
 souvikchand/souvikchand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
