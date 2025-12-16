@@ -21,6 +21,7 @@ Actively growing my GitHub contributions — currently focusing on Python automa
 ![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvikchand&show_icons=true&theme=default)
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=souvikchand&theme=gruvbox&margin-w=10&no-frame=true&row=1)
+[![trophy](https://github-profile-trophy.vercel.app/?username=souvikchand&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikchand&layout=compact&theme=radical)
 <!---
