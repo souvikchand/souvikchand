@@ -20,10 +20,10 @@ Actively growing my GitHub contributions — currently focusing on Python automa
 
 ![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvikchand&show_icons=true&theme=default)
 
-<!---![Trophies](https://github-profile-trophy.vercel.app/?username=souvikchand&theme=gruvbox&margin-w=10&no-frame=true&row=1)
-[![trophy](https://github-profile-trophy.vercel.app/?username=souvikchand&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
-![Trophys](https://github-trophies.vercel.app/?username=souvikchand)
-[![trophy](https://github-trophies.vercel.app/?username=souvikchand&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)-->
+<!---![Trophies](https://github-profile-trophy.vercel.app/?username=souvikchand&theme=gruvbox&margin-w=10&no-frame=true&row=1) -->
+<!---[![trophy](https://github-profile-trophy.vercel.app/?username=souvikchand&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!---![Trophys](https://github-trophies.vercel.app/?username=souvikchand) -->
+<!---[![trophy](https://github-trophies.vercel.app/?username=souvikchand&theme=onedark)](https://github.com/lucthienphong1120/github-trophies) --->
 [![trophy](https://github-trophies.vercel.app/?username=souvikchand&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/lucthienphong1120/github-trophies)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souvikchand&layout=compact&theme=radical)
